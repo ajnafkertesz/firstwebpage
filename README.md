@@ -1,5 +1,4 @@
 # firstwebpage
-## [My bio](https://ajnafkertesz.com/about/)
-## [My bio text absolute](https://github.com/ajnafkertesz/firstwebpage/blob/main/MyBio.md)
-## [My bio text relative](MyBio.md)
+## [My real website](https://ajnafkertesz.com)
+## [My bio text ](MyBio.md)
 

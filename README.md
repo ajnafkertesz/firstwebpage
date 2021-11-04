@@ -1,3 +1,3 @@
 # firstwebpage
-## [My bio] (https://ajnafkertesz.com/about/)
+## [My bio](https://ajnafkertesz.com/about/)
 ## 
